@@ -7,7 +7,4 @@ package com.lcs;
  */
 public class User {
     private Integer id;
-    private String name;
-    private String dog;
-    private String cat;
 }
